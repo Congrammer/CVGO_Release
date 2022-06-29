@@ -11,4 +11,5 @@
 * Custom shortcut keys, custom mouse move speed, custom aiming positions, various supported games
 * Enhanced object tracking using PID
 * Welcome to try with your secondary accounts to see if it can bypass anti-cheats. (I can show video proofs but it is better verify with your own eyes)
-* External hardware can be purchased at [Taobao](https://world.taobao.com/item/660461663989.htm)
+* External hardware can be purchased at [Taobao](https://world.taobao.com/item/659201542143.htm)
+![image](Kmbox_A/kmbox_a.png)
