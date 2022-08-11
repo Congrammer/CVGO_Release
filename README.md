@@ -1,5 +1,5 @@
 # CVGO_Release
-* Join our [Discord](https://discord.gg/SSS6tcFevg) for password and free trial
+* Join our [Discord](https://discord.gg/SSS6tcFevg) for password and free trial (will be cancelled when I done with sellix settings)
 * AIMBOT IS NOT free, join the server for details
 * There is a free weights shared for people who want to code their own program. Enjoy. (class 0: head; class 1: body)
 * Also a slightly modified version of labelimg, with zoom up to 1000% and no fuzzy
