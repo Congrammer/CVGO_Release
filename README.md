@@ -1,9 +1,10 @@
 # CVGO_Release
-* Join our [Discord](https://discord.gg/SSS6tcFevg) for password and free trial
+* Join our [Discord](https://discord.gg/SSS6tcFevg) for password and free trial (will be cancelled when I done with sellix settings)
 * AIMBOT IS NOT free, join the server for details
 * There is a free weights shared for people who want to code their own program. Enjoy. (class 0: head; class 1: body)
 * Also a slightly modified version of labelimg, with zoom up to 1000% and no fuzzy
 * Check [YouTube](https://www.youtube.com/watch?v=41NuU0ZEsgw)
+* 国内 YOLO交流群 778907895
 ## Features
 * Light weight YOLO AIMBOT, fantastic performance (low GPU usage)
 * Does not read/write memory, no virus and fill free to scan (except for ESET which take all packers as potential virus)
