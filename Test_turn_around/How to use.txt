@@ -1,4 +1,4 @@
-1; Open this turn_around.exe as administrator
+1; Open this turn_around_ex.exe as administrator
 2; Enter a game, choose and join a training room
 3; Control your gun aiming at a point where you cannot forget
 4; press and hold right curser key (shape like ->), wait until your charactor turn around and aim at original position
