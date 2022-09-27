@@ -23,10 +23,16 @@
 ```
 # 𝒀𝑶𝑳𝑶𝒗 𝑽/𝑽𝑰/𝑽𝑰𝑰/𝑿 𝒃𝒂𝒔𝒆𝒅 𝒂𝒊𝒎 𝒂𝒔𝒔𝒊𝒔𝒕
 ![image](Gui/cmd.png)
-* Dark theme
-![image](Gui/dark_theme.png)
-* Light theme
-![image](Gui/light_theme.png)
+<details>
+<summary>Dark theme</summary>
+
+* Current dark theme ![image](Gui/dark_theme.png)
+</details>
+<details>
+<summary>Light theme</summary>
+
+* Current light theme ![image](Gui/light_theme.png)
+</details>
 
 ## Note: 📝📝📝
 * If you want to use GHUB mouse simulation method, you MUST use old version of GHUB driver (older than 2022.03), or use LGS instead, or use provided [patch](https://www.reddit.com/r/LogitechG/comments/ltovos/how_to_install_old_ghub_works_no_auto_update/) to reverse back GHUB version
