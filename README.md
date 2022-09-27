@@ -40,7 +40,7 @@
 <summary>KMBOX</summary>
 
 * External hardware (KMBOX) can be purchased at [Taobao](https://world.taobao.com/item/659201542143.htm), also its [Superbuy link](https://www.superbuy.com/en/page/buy/?nTag=Home-search&from=search-input&_search=url&position=&url=https%3A%2F%2Fworld.taobao.com%2Fitem%2F659201542143.htm). If its default mode is not compatible with your mouse, use [kma_parser](Kmbox_A/kma_parser.exe) to switch modes
-<img src=Kmbox_A/kmbox_a.png>
+* Please use version A of kmbox ![image](Kmbox_A/kmbox_a.png)
 </details>
 
 <details>
