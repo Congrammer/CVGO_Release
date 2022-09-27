@@ -37,7 +37,7 @@
 * Using TRT to boost speed (done, planned to add only in pro version, done, evaluating)
 * ~Using new "nice-looking" gui (Done)~
 * ~Safer version which pure relies on python.exe (Done)~
-* Support Arduino Leonardo + USB host shield (Done, under testing)
+* ~Support Arduino Leonardo + USB host shield (Done)~
 * Hide process from task manager (Done, under testing)
 * Better weights for Valorant and PUBG (PUBG training now, Volarant next week, delayed)
 * ~Accurate recoil control for some games (Done for CSGO, available only in pro version)~
