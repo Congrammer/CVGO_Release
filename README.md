@@ -1,25 +1,25 @@
 ```
-          _____                    _____                    _____                   _______         
-         /\    \                  /\    \                  /\    \                 /::\    \        
-        /::\    \                /::\____\                /::\    \               /::::\    \       
-       /::::\    \              /:::/    /               /::::\    \             /::::::\    \      
-      /::::::\    \            /:::/    /               /::::::\    \           /::::::::\    \     
-     /:::/\:::\    \          /:::/    /               /:::/\:::\    \         /:::/~~\:::\    \    
-    /:::/  \:::\    \        /:::/____/               /:::/  \:::\    \       /:::/    \:::\    \   
-   /:::/    \:::\    \       |::|    |               /:::/    \:::\    \     /:::/    / \:::\    \  
-  /:::/    / \:::\    \      |::|    |     _____    /:::/    / \:::\    \   /:::/____/   \:::\____\ 
+          _____                    _____                    _____                   _______
+         /\    \                  /\    \                  /\    \                 /::\    \
+        /::\    \                /::\____\                /::\    \               /::::\    \
+       /::::\    \              /:::/    /               /::::\    \             /::::::\    \
+      /::::::\    \            /:::/    /               /::::::\    \           /::::::::\    \
+     /:::/\:::\    \          /:::/    /               /:::/\:::\    \         /:::/~~\:::\    \
+    /:::/  \:::\    \        /:::/____/               /:::/  \:::\    \       /:::/    \:::\    \
+   /:::/    \:::\    \       |::|    |               /:::/    \:::\    \     /:::/    / \:::\    \
+  /:::/    / \:::\    \      |::|    |     _____    /:::/    / \:::\    \   /:::/____/   \:::\____\
  /:::/    /   \:::\    \     |::|    |    /\    \  /:::/    /   \:::\ ___\ |:::|    |     |:::|    |
 /:::/____/     \:::\____\    |::|    |   /::\____\/:::/____/  ___\:::|    ||:::|____|     |:::|    |
-\:::\    \      \::/    /    |::|    |  /:::/    /\:::\    \ /\  /:::|____| \:::\    \   /:::/    / 
- \:::\    \      \/____/     |::|    | /:::/    /  \:::\    /::\ \::/    /   \:::\    \ /:::/    /  
-  \:::\    \                 |::|____|/:::/    /    \:::\   \:::\ \/____/     \:::\    /:::/    /   
-   \:::\    \                |:::::::::::/    /      \:::\   \:::\____\        \:::\__/:::/    /    
-    \:::\    \               \::::::::::/____/        \:::\  /:::/    /         \::::::::/    /     
-     \:::\    \               ~~~~~~~~~~               \:::\/:::/    /           \::::::/    /      
-      \:::\    \                                        \::::::/    /             \::::/    /       
-       \:::\____\                                        \::::/    /               \::/____/        
-        \::/    /                                         \::/____/                 ~~              
-         \/____/                                                                               
+\:::\    \      \::/    /    |::|    |  /:::/    /\:::\    \ /\  /:::|____| \:::\    \   /:::/    /
+ \:::\    \      \/____/     |::|    | /:::/    /  \:::\    /::\ \::/    /   \:::\    \ /:::/    /
+  \:::\    \                 |::|____|/:::/    /    \:::\   \:::\ \/____/     \:::\    /:::/    /
+   \:::\    \                |:::::::::::/    /      \:::\   \:::\____\        \:::\__/:::/    /
+    \:::\    \               \::::::::::/____/        \:::\  /:::/    /         \::::::::/    /
+     \:::\    \               ~~~~~~~~~~               \:::\/:::/    /           \::::::/    /
+      \:::\    \                                        \::::::/    /             \::::/    /
+       \:::\____\                                        \::::/    /               \::/____/
+        \::/    /                                         \::/____/                 ~~
+         \/____/
 ```
 # 𝒀𝑶𝑳𝑶𝒗 𝑽/𝑽𝑰/𝑽𝑰𝑰/𝑿 𝒃𝒂𝒔𝒆𝒅 𝒂𝒊𝒎 𝒂𝒔𝒔𝒊𝒔𝒕
 ![image](Gui/cmd.png)
@@ -33,6 +33,7 @@
 * **Password is located at the INSTRUCTION channel of my discord server**
 * Don't include "ID: " or "KEY: " when entering...... But need to include that "key/" which is not capitalized
 * Arduino code not work for all mouses (this one supports most mouses include Logitech and Razer), need to be modified if not working well
+* You MUST test turn around data using [turn_around.exe](Test_turn_around/turn_around_ex.exe) first and every time after you changed mouse sensitivity settings
 
 ## Upcoming: 📆📆📆
 * Using TRT to boost speed (done, planned to add only in pro version, done, evaluating, seems not necessary)
@@ -67,7 +68,7 @@
 * Welcome to try with your secondary accounts, see the facts with your own eyes without losing and regretting
 
 ## External hardwares 💻💻💻
-* External hardware (KMBOX) can be purchased at [Taobao](https://world.taobao.com/item/659201542143.htm)
+* External hardware (KMBOX) can be purchased at [Taobao](https://world.taobao.com/item/659201542143.htm), also its [Superbuy link](https://www.superbuy.com/en/page/buy/?nTag=Home-search&from=search-input&_search=url&position=&url=https%3A%2F%2Fworld.taobao.com%2Fitem%2F659201542143.htm). If its default mode is not compatible with your mouse, use [kma_parser](Kmbox_A/kma_parser.exe) to switch modes
 ![image](Kmbox_A/kmbox_a.png)
-* External hardware (Arduino Leonardo + USB host shield) can be purchased at [Amazon - Arduino Leonardo](https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K/) and [Amazon - USB host shield](https://www.amazon.com/ARCELI-Shield-Arduino-Support-Android/dp/B07J2KKGZ4/) or [Ebay - USB host shield](https://www.ebay.com/itm/393311967986)
+* External hardware (Arduino Leonardo + USB host shield) can be purchased at [Amazon - Arduino Leonardo](https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K/) and [Amazon - USB host shield](https://www.amazon.com/ARCELI-Shield-Arduino-Support-Android/dp/B07J2KKGZ4/) or [Ebay - USB host shield](https://www.ebay.com/itm/393311967986), and here is a [video](https://www.youtube.com/watch?v=1dxwU87GQVM) shows how you should install them
 * If you choose to use Arduino, do realize that you need to solder those three lacations ![image](Arduino/Notice.png)
