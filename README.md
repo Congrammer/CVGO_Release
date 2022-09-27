@@ -1,4 +1,13 @@
-# **CVGO -.-....---.--- 𝐑𝐞𝐥𝐞𝐚𝐬𝐞**
+```
+ NNNNNN\  NN\    NN\  NNNNNN\   NNNNNN\  
+NN  __NN\ NN |   NN |NN  __NN\ NN  __NN\ 
+NN /  \__|NN |   NN |NN /  \__|NN /  NN |
+NN |      \NN\  NN  |NN |NNNN\ NN |  NN |
+NN |       \NN\NN  / NN |\_NN |NN |  NN |
+NN |  NN\   \NNN  /  NN |  NN |NN |  NN |
+\NNNNNN  |   \N  /   \NNNNNN  | NNNNNN  |
+ \______/     \_/     \______/  \______/ 
+```
 ## 𝒀𝑶𝑳𝑶𝒗 𝑽/𝑽𝑰/𝑽𝑰𝑰/𝑿 𝒃𝒂𝒔𝒆𝒅 𝒂𝒊𝒎 𝒂𝒔𝒔𝒊𝒔𝒕
 ![image](Gui/cmd.png)
 * Dark theme
