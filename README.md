@@ -41,7 +41,7 @@
 * Arduino code not work for all mouses (this one supports most mouses include Logitech and Razer), need to be modified if not working well
 * You MUST test turn around data using [turn_around.exe](Test_turn_around/turn_around_ex.exe) first and every time after you changed mouse sensitivity settings
 
-## External hardwares 💻💻💻
+## External hardwares 🖱️🖱️🖱️
 <details>
 <summary>KMBOX</summary>
 
@@ -88,11 +88,15 @@
 * Support different types of mouse simulation to bypass *** platforms
 * Welcome to try with your secondary accounts, see the facts with your own eyes without losing and regretting
 
-## Hardware requirement
-- NVIDIA Kepler (GTX 600 series) and above
-- AMD GCN 1st Gen (Radeon HD 7000 series) and above
-- Intel Haswell (4th-gen core) HD Integrated Graphics and above
-- Qualcomm Adreno 600 and above
+## Hardware requirements 🖥️🖥️🖥️
+- GPU requirement (one of the following)
+  - NVIDIA Kepler (GTX 600 series) and above
+  - AMD GCN 1st Gen (Radeon HD 7000 series) and above
+  - Intel Haswell (4th-gen core) HD Integrated Graphics and above
+  - Qualcomm Adreno 600 and above
+- CPU requirement (recommendations)
+  - Anything better than i7-4700MQ
+  - 8th generation and later for Intel cpu
 ```
 DirectML was introduced in Windows 10, version 1903, and in the corresponding version of the Windows SDK.
 ```
