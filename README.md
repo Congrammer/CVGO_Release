@@ -47,6 +47,7 @@
 
 * External hardware (KMBOX) can be purchased at [Taobao](https://world.taobao.com/item/659201542143.htm), also its [Superbuy link](https://www.superbuy.com/en/page/buy/?nTag=Home-search&from=search-input&_search=url&position=&url=https%3A%2F%2Fworld.taobao.com%2Fitem%2F659201542143.htm). If its default mode is not compatible with your mouse, use [kma_parser](Kmbox_A/kma_parser.exe) to switch modes
 * Please use version A of kmbox ![image](Kmbox_A/kmbox_a.png)
+* Treat it the same as Arduino Leonardo + USB host shield but **better** (since it uses hid instead of serial), on a pc it is just a normal hid device (like your mouse)
 </details>
 
 <details>
