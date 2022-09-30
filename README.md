@@ -59,6 +59,7 @@
 </details>
 
 ## Upcoming: 📆📆📆
+* Tutorial
 * Using TRT to boost speed (done, planned to add only in pro version, done, evaluating, seems not necessary)
 * Using new "nice-looking" gui (Done)✅
 * Safer version which pure relies on python.exe (Done)✅
@@ -91,7 +92,7 @@
 * Support different types of mouse simulation to bypass *** platforms
 * Welcome to try with your secondary accounts, see the facts with your own eyes without losing and regretting
 
-## Hardware requirements 🖥️🖥️🖥️
+## Hardware requirements: 🖥️🖥️🖥️
 - GPU requirement (one of the following)
   - NVIDIA Kepler (GTX 600 series) and above
   - AMD GCN 1st Gen (Radeon HD 7000 series) and above
