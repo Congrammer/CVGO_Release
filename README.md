@@ -41,7 +41,8 @@
 * Arduino code not work for all mouses (this one supports most mouses include Logitech and Razer), need to be modified if not working well
 * You MUST test turn around data using [turn_around.exe](Test_turn_around/turn_around_ex.exe) first and every time after you changed mouse sensitivity settings
 
-## External hardwares 🖱️🖱️🖱️
+## External hardwares: 🖱️🖱️🖱️
+### Select one of the following options
 <details>
 <summary>KMBOX</summary>
 
@@ -68,7 +69,7 @@
 * Players can download at different time will get different files (with same file names but content changed)
 * Free version
 
-## Promotion 🎈🎈🎈
+## Promotion: 🎈🎈🎈
 * Join our [new Discord](https://discord.gg/qkvkT7y7mZ) for **password** and free trial (one day, ends on Oct 7th, 2022), where also provide a channel for development discussion
 * AIMBOT IS NOT free, join the server for details (please read), but I will also release a free version
 * There is a FREE weights shared previously for people who want to code their own program. Enjoy. (class 0: head; class 1: body, 416*416, Yolov4-tiny)
@@ -77,7 +78,7 @@
 * BE A PRO IN CSGO/CROSSFIRE/VALORANT/APEX/NZ/PUBG & so on !!!
 * QQ Group 778907895
 
-## Features 👍👍👍
+## Features: 👍👍👍
 * Different checksum for different user
 * One program works on many fps games
 * Light weight YOLO AIMBOT with fantastic performance (low GPU usage)
@@ -85,6 +86,7 @@
 * Does not read/write memory, no virus and fill free to scan (except for ESET which take all packers as potential virus)
 * Smooth human-like mouse move at all FPS values, random speed of mouse clicks
 * Custom shortcut keys, custom mouse move speed, custom aiming positions, various supported battle modes
+* Standalone RCS for CSGO
 * Enhanced object tracking using PID system (optimized for both static and moving targets)
 * Support different types of mouse simulation to bypass *** platforms
 * Welcome to try with your secondary accounts, see the facts with your own eyes without losing and regretting
