@@ -68,7 +68,7 @@
 * Better weights for Valorant and PUBG (Delayed)
 * Accurate recoil control for some games (Done for CSGO, available only in pro version)✅
 * Players can download at different time will get different files (with same file names but content changed)
-* Free version
+* [Free version](https://github.com/JiaPai12138/AI-M-BOT)✅
 
 ## Promotion: 🎈🎈🎈
 * Join our [new Discord](https://discord.gg/qkvkT7y7mZ) for **password** and free trial (one day, ends on Oct 7th, 2022), where also provide a channel for development discussion
