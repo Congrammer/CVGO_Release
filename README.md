@@ -39,7 +39,7 @@
 * **Password is located at the INSTRUCTION channel of my discord server**
 * Don't include "ID: " or "KEY: " when entering...... But need to include that "key/" which is not capitalized
 * Arduino code not work for all mouses (this one supports most mouses include Logitech and Razer), need to be modified if not working well
-* You MUST test turn around data using [turn_around.exe](Test_turn_around/turn_around_ex.exe) first and every time after you changed mouse sensitivity settings
+* You MUST test turn around data using [turn_around.exe](Test_turn_around/turn_around_ex.exe) first and every time after you changed mouse sensitivity settings, and [here](https://www.youtube.com/watch?v=yOcmX9fnZJk) is how to use it
 
 ## External hardwares: 🖱️🖱️🖱️
 ### Select one of the following options
