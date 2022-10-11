@@ -71,15 +71,15 @@
 
 ## 📆📆📆Upcoming:
 * Tutorial
-* Using TRT to boost speed (done, planned to add only in pro version, done, evaluating, seems not necessary)
-* Using new "nice-looking" gui (Done)✅
-* Safer version which pure relies on python.exe (Done)✅
-* Support Arduino Leonardo + USB host shield (Done)✅
-* Hide process from task manager (Done, test not safe)⚠
+* ⚠我Using TRT to boost speed (done, planned to add only in pro version, done, evaluating, seems not necessary)
+* ✅Using new "nice-looking" gui (Done)
+* ✅Safer version which pure relies on python.exe (Done)
+* ✅Support Arduino Leonardo + USB host shield (Done)
+* ⚠Hide process from task manager (Done, test not safe)
 * Better weights for Valorant and PUBG (Delayed)
-* Accurate recoil control for some games (Done for CSGO, available only in pro version)✅
+* ✅Accurate recoil control for some games (Done for CSGO, available only in pro version)
 * Players can download at different time will get different files (with same file names but content changed)
-* [Free version](https://github.com/JiaPai12138/AI-M-BOT)✅
+* ✅[Free version](https://github.com/JiaPai12138/AI-M-BOT)
 
 <br/><br/>
 
