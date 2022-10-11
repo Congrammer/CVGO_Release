@@ -39,7 +39,7 @@
 * Current light theme ![image](Gui/light_theme.png)
 </details>
 
----
+<br/><br/>
 
 ## 📝📝📝Note:
 * If you want to use GHUB mouse simulation method, you MUST use old version of GHUB driver (older than 2022.03), or use LGS instead, or use provided [patch](https://www.reddit.com/r/LogitechG/comments/ltovos/how_to_install_old_ghub_works_no_auto_update/) to reverse back GHUB version
@@ -48,7 +48,7 @@
 * Arduino code not work for all mouses (this one supports most mouses include Logitech and Razer), need to be modified if not working well
 * You MUST test turn around data using [turn_around.exe](Test_turn_around/turn_around_ex.exe) first and every time after you changed mouse sensitivity settings, and [here](https://www.youtube.com/watch?v=yOcmX9fnZJk) is how to use it
 
----
+<br/><br/>
 
 ## 🖱️🖱️🖱️External hardwares:
 ### >>>Select one of the following options<<<
@@ -67,7 +67,7 @@
 * If you choose to use Arduino, do realize that you need to solder those three lacations ![image](Arduino/Notice.png)
 </details>
 
----
+<br/><br/>
 
 ## 📆📆📆Upcoming:
 * Tutorial
@@ -81,7 +81,7 @@
 * Players can download at different time will get different files (with same file names but content changed)
 * [Free version](https://github.com/JiaPai12138/AI-M-BOT)✅
 
----
+<br/><br/>
 
 ## 🎈🎈🎈Promotion:
 * Join our [new Discord](https://discord.gg/qkvkT7y7mZ) for **password** and free trial (one day, ends on Oct 7th, 2022), where also provide a channel for development discussion
@@ -92,7 +92,7 @@
 * BE A PRO IN CSGO/CROSSFIRE/VALORANT/APEX/NZ/PUBG & so on !!!
 * QQ Group 778907895
 
----
+<br/><br/>
 
 ## 👍👍👍Features:
 * Different checksum for different user
@@ -107,7 +107,7 @@
 * Support different types of mouse simulation to bypass *** platforms
 * Welcome to try with your secondary accounts, see the facts with your own eyes without losing and regretting
 
----
+<br/><br/>
 
 ## 🖥️🖥️🖥️Hardware requirements:
 - GPU requirement (one of the following)
