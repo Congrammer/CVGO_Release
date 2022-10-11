@@ -21,28 +21,37 @@
         \::/    /                                         \::/____/                 ~~
          \/____/
 ```
-# 𝒀𝑶𝑳𝑶𝒗 𝑽/𝑽𝑰/𝑽𝑰𝑰/𝑿 𝒃𝒂𝒔𝒆𝒅 𝒂𝒊𝒎 𝒂𝒔𝒔𝒊𝒔𝒕
+# 🚀🚀🚀𝒀𝑶𝑳𝑶𝒗 𝑽/𝑽𝑰/𝑽𝑰𝑰/𝑿 𝒃𝒂𝒔𝒆𝒅 𝒂𝒊𝒎 𝒂𝒔𝒔𝒊𝒔𝒕
 ![image](Gui/cmd.png)
 <details>
-<summary>Dark theme</summary>
+<summary>CMD more explanation</summary>
 
-* Current dark theme ![image](Gui/dark_theme.png)
+* ![image](Gui/cmd_detail.png)
 </details>
 <details>
-<summary>Light theme</summary>
+<summary>Dark theme (click to show)</summary>
+
+* Current dark theme (with eco mode on) ![image](Gui/dark_theme.png)
+</details>
+<details>
+<summary>Light theme (click to show)</summary>
 
 * Current light theme ![image](Gui/light_theme.png)
 </details>
 
-## Note: 📝📝📝
+---
+
+## 📝📝📝Note:
 * If you want to use GHUB mouse simulation method, you MUST use old version of GHUB driver (older than 2022.03), or use LGS instead, or use provided [patch](https://www.reddit.com/r/LogitechG/comments/ltovos/how_to_install_old_ghub_works_no_auto_update/) to reverse back GHUB version
 * **Password is located at the INSTRUCTION channel of my discord server**
 * Don't include "ID: " or "KEY: " when entering...... But need to include that "key/" which is not capitalized
 * Arduino code not work for all mouses (this one supports most mouses include Logitech and Razer), need to be modified if not working well
 * You MUST test turn around data using [turn_around.exe](Test_turn_around/turn_around_ex.exe) first and every time after you changed mouse sensitivity settings, and [here](https://www.youtube.com/watch?v=yOcmX9fnZJk) is how to use it
 
-## External hardwares: 🖱️🖱️🖱️
-### Select one of the following options
+---
+
+## 🖱️🖱️🖱️External hardwares:
+### >>>Select one of the following options<<<
 <details>
 <summary>KMBOX</summary>
 
@@ -58,7 +67,9 @@
 * If you choose to use Arduino, do realize that you need to solder those three lacations ![image](Arduino/Notice.png)
 </details>
 
-## Upcoming: 📆📆📆
+---
+
+## 📆📆📆Upcoming:
 * Tutorial
 * Using TRT to boost speed (done, planned to add only in pro version, done, evaluating, seems not necessary)
 * Using new "nice-looking" gui (Done)✅
@@ -70,7 +81,9 @@
 * Players can download at different time will get different files (with same file names but content changed)
 * [Free version](https://github.com/JiaPai12138/AI-M-BOT)✅
 
-## Promotion: 🎈🎈🎈
+---
+
+## 🎈🎈🎈Promotion:
 * Join our [new Discord](https://discord.gg/qkvkT7y7mZ) for **password** and free trial (one day, ends on Oct 7th, 2022), where also provide a channel for development discussion
 * AIMBOT IS NOT free, join the server for details (please read), but I will also release a free version
 * There is a FREE weights shared previously for people who want to code their own program. Enjoy. (class 0: head; class 1: body, 416*416, Yolov4-tiny)
@@ -79,7 +92,9 @@
 * BE A PRO IN CSGO/CROSSFIRE/VALORANT/APEX/NZ/PUBG & so on !!!
 * QQ Group 778907895
 
-## Features: 👍👍👍
+---
+
+## 👍👍👍Features:
 * Different checksum for different user
 * One program works on many fps games
 * Light weight YOLO AIMBOT with fantastic performance (low GPU usage)
@@ -92,7 +107,9 @@
 * Support different types of mouse simulation to bypass *** platforms
 * Welcome to try with your secondary accounts, see the facts with your own eyes without losing and regretting
 
-## Hardware requirements: 🖥️🖥️🖥️
+---
+
+## 🖥️🖥️🖥️Hardware requirements:
 - GPU requirement (one of the following)
   - NVIDIA Kepler (GTX 600 series) and above
   - AMD GCN 1st Gen (Radeon HD 7000 series) and above
