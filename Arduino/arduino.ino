@@ -73,7 +73,7 @@ void loop() {
     switch (inChar) {
       case 'a':
         if (myString == "arduino") {
-          Serial.print(myString);
+          Serial.print("arduinoshield");
           delay(100);
         }
         break;

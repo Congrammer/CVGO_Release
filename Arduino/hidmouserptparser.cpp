@@ -40,10 +40,28 @@ void HIDMouseReportParser::Parse(USBHID *hid, bool is_rpt_id, uint8_t len, uint8
   scr = 0;
   tilt = 0;
 
-  xbrute = buf[2];
-  ybrute = buf[4];
-  scr = buf[6];
-  tilt = buf[7];
+  xbrute = buf[2];  // Modify based on your mouse
+  ybrute = buf[4];  // Modify based on your mouse
+  // So a friendly notice, if your mouse move like switched x & y axis, you need to change to follows:
+  // xbrute = buf[4];
+  // ybrute = buf[2];
+
+  scr = buf[6];  // Modify based on your mouse
+  // This is not always 6, different mouse could have different position (for example mine is on 3)
+  // Use following if needed
+  /*
+  if(scr > 127){
+    scr = map(scr, 255, 128, -1, -127);
+  }
+  else if(scr > 0){
+    scr = scr*0.99;
+    if(scr<1){
+      scr = 1;
+    }
+  }
+  */
+
+  tilt = buf[7];  // This could be ignored
 
   if(xbrute > 127){
     xm = map(xbrute, 255, 128, -1, -127);
