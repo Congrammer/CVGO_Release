@@ -36,7 +36,7 @@ void HIDMouseReportParser::Parse(USBHID *hid, bool is_rpt_id, uint8_t len, uint8
   oldButtons = buf[0];
 
   xm = 0;
-  ym = 0;
+  ym = 0; 
   scr = 0;
   tilt = 0;
 
@@ -86,3 +86,4 @@ void HIDMouseEvents::Move(int8_t xm, int8_t ym, int8_t scr, int8_t tilt) {
   */
   Mouse.move(xm, ym, scr);
 }
+ 

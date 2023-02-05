@@ -7,7 +7,9 @@ try:
     from win32con import VK_LBUTTON
     import serial
 except:
-    os.system('pip install pywin32')
+    os.system('pip install pywi
+    
+n32')
     os.system('pip install pyserial')
     from win32api import GetAsyncKeyState
     from win32con import VK_LBUTTON
