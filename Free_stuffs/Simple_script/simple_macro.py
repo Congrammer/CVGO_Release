@@ -25,7 +25,7 @@ if __name__ == '__main__':
         sleep(1)
 
     press_time = 90.0
-    total_time = 120.0
+    total_time = 120.0 
     rand_range = 2.0
     VK_OEM_PLUS = 0xBB
     VK_OEM_MINUS = 0xBD
@@ -45,7 +45,7 @@ if __name__ == '__main__':
             press_time, total_time, rand_range = 预设USP
 
         if GetAsyncKeyState(VK_LEFT)<0:  # 调整总体间隔
-            total_time -= 0.5
+            total_time  -= 0.5
             if total_time < 80:
                 total_time = 80
         if GetAsyncKeyState(VK_RIGHT)<0:

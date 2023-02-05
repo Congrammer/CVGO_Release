@@ -15,7 +15,7 @@ HIDMouseReportParser Mou(&MouEvents);
 
 // HIDBoot<USB_HID_PROTOCOL_MOUSE> HidMouse(&Usb);
 String myString;
-String checkString;
+String checkString; 
 
 const int upButton = 2;
 const int downButton = 3;

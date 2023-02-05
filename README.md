@@ -25,7 +25,7 @@
 * Proof of [work on YouTube](https://www.youtube.com/channel/UCyDKoZcyp2vDvskHFviRtag)
 * 国内YOLO交流群 778907895 欢迎讨论各类技术问题
 
-## Features 👍👍👍
+ ## Features 👍👍👍
 * Different checksum for different user
 * Light weight YOLO AIMBOT, fantastic performance (low GPU usage)
 * Does not read/write memory, no virus and fill free to scan (except for ESET which take all packers as potential virus)
@@ -35,3 +35,4 @@
 * Welcome to try with your secondary accounts to see if it can bypass anti-cheats. (I can show video proofs but it is better verify with your own eyes)
 * External hardware (KMBOX) can be purchased at [Taobao](https://world.taobao.com/item/659201542143.htm)
 ![image](Kmbox_A/kmbox_a.png)
+ 
